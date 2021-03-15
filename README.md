@@ -4,3 +4,5 @@
 
 day 1: make basic flask app
 
+1. making a flask app with hello world
+1. use github actions to build, lint, and test
