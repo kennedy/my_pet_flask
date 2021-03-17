@@ -1,6 +1,8 @@
+
+
 def test_app(app):
     assert app
 
 
-def test_app(client):
+def test_client(client):
     assert client
