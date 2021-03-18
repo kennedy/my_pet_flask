@@ -14,8 +14,8 @@ day 3: More github actions
 
 TODO:
 
-- [ ] Make basic flask
-- [ ] Make Github Actions, Multiple versions
+- [x] Make basic flask
+- [x] Make Github Actions, Multiple versions
 - [ ] Add batabase with sqlalchemy, or most likely a graph database to learn
 - [ ] Static site gen perhaps?
 - [ ] 11ty?
